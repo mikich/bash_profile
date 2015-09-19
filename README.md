@@ -1,4 +1,4 @@
 bash_profile
 ============
-
-.bash_profile of my Mac
+To edit bash profile, just run the following command:
+vim .bash_profile
